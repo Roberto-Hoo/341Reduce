@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\341Reduce.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe cr CMakeFiles\341Reduce.dir/objects.a @CMakeFiles\341Reduce.dir\objects1.rsp
+C:\msys64\mingw64\bin\clang++.exe -g -Wl,--whole-archive CMakeFiles\341Reduce.dir/objects.a -Wl,--no-whole-archive -o 341Reduce.exe -Wl,--out-implib,lib341Reduce.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\341Reduce.dir\linklibs.rsp
